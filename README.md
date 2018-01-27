@@ -1,6 +1,8 @@
 # draggabledemo
 
-> A Vue.js project
+> A very basic demo of a Kanbanboard build with VueJs + Vuetify + VueDraggable
+
+see https://github.com/SortableJS/Vue.Draggable for full documentation
 
 ## Build Setup
 
