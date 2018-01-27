@@ -4,6 +4,9 @@
 
 see https://github.com/SortableJS/Vue.Draggable for full documentation
 
+
+![alt text](https://github.com/ArmandJ77/BasicKanbanBoardDemo/blob/master/demo.gif "Demo.gif")
+
 ## Build Setup
 
 ``` bash
