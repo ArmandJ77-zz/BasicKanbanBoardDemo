@@ -1,4 +1,4 @@
-# draggabledemo
+# Basic Kanbanboard Demo
 
 > A very basic demo of a Kanbanboard build with VueJs + Vuetify + VueDraggable
 
