@@ -2,10 +2,9 @@
 
 > A very basic demo of a Kanbanboard build with VueJs + Vuetify + VueDraggable
 
-see https://github.com/SortableJS/Vue.Draggable for full documentation
-
-
 ![alt text](https://github.com/ArmandJ77/BasicKanbanBoardDemo/blob/master/demo.gif "Demo.gif")
+
+see https://github.com/SortableJS/Vue.Draggable for full documentation
 
 ## Build Setup
 
